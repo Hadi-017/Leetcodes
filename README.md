@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hadi-017/Leetcodes/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hadi-017/Leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Hadi-017/Leetcodes/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hadi-017/Leetcodes/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Hadi-017/Leetcodes/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

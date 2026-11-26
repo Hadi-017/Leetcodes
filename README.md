@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Hadi-017/Leetcodes/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hadi-017/Leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hadi-017/Leetcodes/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Hadi-017/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Hadi-017/Leetcodes/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hadi-017/Leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hadi-017/Leetcodes/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Hadi-017/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Hadi-017/Leetcodes/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hadi-017/Leetcodes/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Hadi-017/Leetcodes/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
